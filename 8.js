@@ -33,4 +33,8 @@ console.log(i++)
 console.log(i++)
 console.log(i++)
 console.log(i++)
-    
+    /////////////////////////////////////////////////////////////
+    // Write a program that prints "Step 1", "Step 2", "Step 3" and so on until "Step 10"
+    for (let i = 1; i<11; i++) {
+        console.log(`step ${i}`)
+    }
