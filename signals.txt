@@ -1,0 +1,18 @@
+console.log()  - print something
+//     -  comments for something
+let        -   create variable
+==   -   cheking equal
+<, >   - cheking compare 
+
+let u=90909
+let y=898989
+if(u>y){
+    console.log("u is bigger than y")
+}else{
+    console.log("u is smaller than y")
+}
+
+c += 90//is the same like c = c+90
+////
+let name = "Oleh";
+console.log(`Hello, ${name}!`); // "Hello, Oleh!"   use ` `
