@@ -38,3 +38,18 @@ console.log(i++)
     for (let i = 1; i<11; i++) {
         console.log(`step ${i}`)
     }
+    // There is number = 150. If the number is greater than 100, print "Big number", otherwise print "Small number".
+let number1=150
+if(number1>100){
+    console.log('big number')
+}else{
+    console.log('not good')
+}
+// There is number = 220. If the number is greater than 200, print "Great" 20 times. Otherwise, print "Not enough".
+let number=220
+if(number>200){
+    for (let i = 1; i<20; i++){
+    console.log('great')}
+}else{
+    console.log('not good')
+}
