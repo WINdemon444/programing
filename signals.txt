@@ -16,3 +16,6 @@ c += 90//is the same like c = c+90
 ////
 let name = "Oleh";
 console.log(`Hello, ${name}!`); // "Hello, Oleh!"   use ` `
+for(let i=0;i<10;i++){
+     console.log(i)
+}
