@@ -19,3 +19,9 @@ console.log(`Hello, ${name}!`); // "Hello, Oleh!"   use ` `
 for(let i=0;i<10;i++){
      console.log(i)
 }
+
+
+
+
+let games=['roblox','geometry dash','minecraft','level devil','asphalt 9']
+console.log(games[0])//print 1 element of the array
