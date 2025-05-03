@@ -25,3 +25,10 @@ for(let i=0;i<10;i++){
 
 let games=['roblox','geometry dash','minecraft','level devil','asphalt 9']
 console.log(games[0])//print 1 element of the array
+
+
+
+let numbers=[10,90,79,67,35]
+for(let i=0;i<numbers.length;i++){
+  console.log(numbers[i])//print all elements of array
+}
