@@ -32,3 +32,11 @@ let numbers=[10,90,79,67,35]
 for(let i=0;i<numbers.length;i++){
   console.log(numbers[i])//print all elements of array
 }
+
+
+
+
+
+
+let w="bee"
+console.log(w.toUpperCase())//we made all letters capital
