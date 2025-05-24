@@ -42,3 +42,9 @@ let w="bee"
 console.log(w.toUpperCase())//we made all letters capital
 let o='COW'
 console.log(o.toLowerCase())//made all letters small
+
+
+
+
+let words = ["dolphin",'orange','tablet','apple']
+words.sort()//sorting words by alphabet
