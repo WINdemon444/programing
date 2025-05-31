@@ -60,5 +60,6 @@ words.sort()//sorting words by alphabet
 
 
 let numbers =[8,9,10,14,78]
-numbers.sort((a,b)=>a-b)
+numbers.sort((a,b)=>a-b)//sort from small to big
+_______
 console.log(numbers)
