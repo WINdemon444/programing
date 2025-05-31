@@ -48,3 +48,17 @@ console.log(o.toLowerCase())//made all letters small
 
 let words = ["dolphin",'orange','tablet','apple']
 words.sort()//sorting words by alphabet
+
+
+
+
+
+
+
+
+
+
+
+let numbers =[8,9,10,14,78]
+numbers.sort((a,b)=>a-b)
+console.log(numbers)
