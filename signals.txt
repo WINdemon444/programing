@@ -38,6 +38,7 @@ for(let i=0;i<numbers.length;i++){
 
 
 
+
 let w="bee"
 console.log(w.toUpperCase())//we made all letters capital
 let o='COW'
@@ -63,3 +64,37 @@ let numbers =[8,9,10,14,78]
 numbers.sort((a,b)=>a-b)//sort from small to big
 _______
 console.log(numbers)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const store1 = ["milk", "bread", "cheese"];
+ const store2 = ["juice", "eggs", "butter"];
+let result=store1.concat(store2)
+console.log(result)//gave combined array
