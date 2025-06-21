@@ -10,9 +10,3 @@
 // There are three warehouses with different products. Merge all items into one list and sort them.
 
 
-const warehouse1 = ["tomatoes", "onions"];
-const warehouse2 = ["potatoes", "carrots"];
-const warehouse3 = ["peppers", "cucumbers"];
-let result=warehouse1.concat(warehouse2,warehouse3)
-result.sort()
-console.log(result)
