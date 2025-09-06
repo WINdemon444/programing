@@ -1,6 +1,12 @@
-// Task: Make all words UPPERCASE(using map method) and sort them
 
-// Given a list of exactly 6 words, convert all of them to uppercase and then sort them alphabetically.
+// You have a list of numbers. Find the sum of all numbers using a loop for.
 
-// const words = ["car", "bike", "train", "apple", "zebra", "bus"];
-console.log("hello")
+// const numbers = [3, 7, 2, 5, 10];
+
+const numbers = [3, 7, 2, 5, 10];
+let sum = 0;
+
+for (let i = 0; i < numbers.length; i++) {
+  sum = sum + numbers[i];
+}
+console.log(sum);
