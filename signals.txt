@@ -153,3 +153,17 @@ console.log(w)
 let words=["i",'want','to','play','roblox']
 let word=words.map(element=>element.toUpperCase())
 console.log(word)//map changes every element
+
+
+
+
+let fruits = ["apple", "banana", "orange", "pear"];
+fruits.pop()
+console.log(fruits)// erase the last element
+
+
+
+
+let animals = ["cat", "dog", "rabbit"];
+animals.push("frog")
+console.log(animals)// add an element
