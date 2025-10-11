@@ -167,3 +167,8 @@ console.log(fruits)// erase the last element
 let animals = ["cat", "dog", "rabbit"];
 animals.push("frog")
 console.log(animals)// add an element
+
+
+
+
+methods math is in file 28.js
