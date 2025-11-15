@@ -172,3 +172,6 @@ console.log(animals)// add an element
 
 
 methods math is in file 28.js
+
+
+method pow and random in 29.js
