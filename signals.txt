@@ -184,3 +184,14 @@ method pow and random in 29.js
 let numbers=[8,7,78,56,69,37,6]
 let y=numbers.filter((element)=>element>40)// only put in terminal those numbers which are bigger 40 for example
 console.log(y)
+
+
+OBJECTS
+
+let charecter = {
+  name: "spongebob",
+  lastname: "squarepants",
+  age: 13
+};
+console.log(charecter)
+console.log(charecter.name)//we made a character with age , lastname , name
