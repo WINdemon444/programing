@@ -13,3 +13,10 @@ for (let i = 0; i < 60; i++) {
   brawlerTrophies.push(Math.round(club));
 }
 console.log(brawlerTrophies);
+let thirty=0
+for(let i=0;i<brawlerTrophies.length;i++){
+  if(brawlerTrophies[i]>888){
+    thirty +=1
+  }
+}
+console.log(thirty)

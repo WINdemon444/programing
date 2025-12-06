@@ -175,3 +175,12 @@ methods math is in file 28.js
 
 
 method pow and random in 29.js
+
+
+
+
+
+
+let numbers=[8,7,78,56,69,37,6]
+let y=numbers.filter((element)=>element>40)// only put in terminal those numbers which are bigger 40 for example
+console.log(y)
