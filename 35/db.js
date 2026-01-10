@@ -8,4 +8,4 @@ let players = [
   { name: "vecna", age: 1000 },
   { name: "lucas", age: 17 },
 ];
-module.exports = { users, players };
+module.exports = { users, players }
