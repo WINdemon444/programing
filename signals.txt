@@ -195,3 +195,7 @@ let charecter = {
 };
 console.log(charecter)
 console.log(charecter.name)//we made a character with age , lastname , name
+
+ file .env has secret data
+ in file gitignore write names of files that we want to hide
+ to get data from .env we have to write procces.env
